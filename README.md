@@ -3,3 +3,4 @@
 #### 2. Trailing zeroes
 #### 3. Piyush And Magical Garden
 #### 4. Incredible Hulk
+#### 5. GCD and LCM
