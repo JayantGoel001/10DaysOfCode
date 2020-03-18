@@ -5,7 +5,7 @@
 #### Day 4 . Incredible Hulk
 #### Day 5 . GCD and LCM
 #### Day 6 . Prime Visits
-#### Day 7 . Divisible Good SubSet
-#### Day 8 . 
-#### Day 9 .Sort The String
-#### Day 10.Help Rahul
+#### Day 7 . Rotate The Image
+#### Day 8 . Divisible Good SubSet
+#### Day 9 . Sort The String
+#### Day 10. Help Rahul
